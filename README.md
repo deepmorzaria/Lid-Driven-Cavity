@@ -6,17 +6,17 @@ SIMPLE(Semi-Implicit Method for Pressure-Linked Equation) algorithm implemented 
 
 
 <p float="left">
-  <img src="https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/u.eps" width="400" >
-  <img src="https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/v.eps" width="400"> 
+  <img src="https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/u.jpg" width="400" >
+  <img src="https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/v.jpg" width="400"> 
 </p>
 
 <p float="left">
-  <img src="https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/p.eps" width="400" >
-  <img src="https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/u_centerline.eps" width="400"> 
+  <img src="https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/p.jpg" width="400" >
+  <img src="https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/u_centerline.jpg" width="400"> 
 </p>
   
-<image src= "https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/v_centerline.eps" width=400>
-<image src= "https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/streamlines.eps" width=400>
+<image src= "https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/v_centerline.jpg" width=400>
+<image src= "https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/streamlines.jpg" width=400>
 
 
 
