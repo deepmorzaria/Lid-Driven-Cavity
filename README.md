@@ -14,9 +14,11 @@ SIMPLE(Semi-Implicit Method for Pressure-Linked Equation) algorithm implemented 
   <img src="https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/p.jpg" width="400" >
   <img src="https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/u_centerline.jpg" width="400"> 
 </p>
-  
+
+<p float="left">
 <image src= "https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/v_centerline.jpg" width=400>
 <image src= "https://github.com/deepmorzaria/Lid-Driven-Cavity/blob/main/results/streamlines.jpg" width=400>
+</p>
 
 
 
